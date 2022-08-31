@@ -1,2 +1,2 @@
-#!/bin/bash
+#!/bim/bash
 rmdir -r /tmp/my_first_directory
